@@ -41,6 +41,10 @@ hr {
     font-style: italic;
 }
 
+.bottom-line { 
+    margin-top: 25px;
+  }
+
 .flavor,
 .dessert {
     text-align: left;
